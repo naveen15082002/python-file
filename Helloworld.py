@@ -1,5 +1,5 @@
 print("Hello world")
-age=17
+age=20
 if(age>18):
     print('Your are eligible for vote')
 else:
